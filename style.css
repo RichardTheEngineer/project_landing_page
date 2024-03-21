@@ -20,10 +20,10 @@ body {
     margin: 0px;
     padding: 0;
     color: white;
+   
     align-items: center;
-    /* padding: 12px; */
     padding: 12px 150px 100px;
-    /* padding-bottom: 50px; */
+    
     
 }
 
@@ -31,6 +31,8 @@ ul {
     display: flex;
     gap: 20px;
     list-style: none;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 img {
